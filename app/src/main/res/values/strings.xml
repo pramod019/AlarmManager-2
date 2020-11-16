@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="your_alarm">Your Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="close_button">Close Button</string>
+    <string name="save">Save</string>
+    <string name="delete_alarm">Delete Alarm</string>
+</resources>
